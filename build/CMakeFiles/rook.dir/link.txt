@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rook.dir/src/main.cpp.o CMakeFiles/rook.dir/src/board.cpp.o CMakeFiles/rook.dir/src/movegen.cpp.o CMakeFiles/rook.dir/src/search.cpp.o CMakeFiles/rook.dir/src/eval.cpp.o CMakeFiles/rook.dir/src/uci.cpp.o -o rook
